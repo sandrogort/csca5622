@@ -6,4 +6,5 @@ This project aims to predict house prices using various supervised learning algo
 
 - `data/`: Contains the training and testing data.
 - `notebooks/`: Jupyter notebooks for EDA, feature engineering, model building, and evaluation.
+- `plots/`: Plots saved as images.
 - `README.md`: Project overview and instructions.
